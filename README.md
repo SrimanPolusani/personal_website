@@ -1,6 +1,6 @@
-<h1>Personal Website<h1>
+#Personal Website<h1>
   <a href="https://srimanpolusani.github.io/personal_website/">Visit the site</a>
-  <p>This is my personal website. It contains the following information about me</p>
+  <h1>This is my personal website. It contains the following information about me</h1>
   <ol>
     <li>Skill Set</li>
     <li>Education Background</li>
