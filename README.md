@@ -1,5 +1,5 @@
 <h1>Personal Website<h1>
-  <p>This is my personal website. Please visit it to know about my...</p>
+  <p>This is my personal website. It contains the following information about me</p>
   <ol>
     <li>Skill Set</li>
     <li>Education Background</li>
