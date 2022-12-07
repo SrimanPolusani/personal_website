@@ -541,7 +541,6 @@ input, select, textarea {
 	}
 	.justified {
 		text-align: justify;
-		text-justify: inter-word;
 	}
 /* Form */
 
