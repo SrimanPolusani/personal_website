@@ -325,6 +325,8 @@ input, select, textarea {
 
 	p {
 		margin: 0 0 1.5rem 0;
+		text-align: justify;
+		text-justify: inter-word;
 	}
 
 		body.is-ie p {
@@ -539,9 +541,7 @@ input, select, textarea {
 		}
 
 	}
-	.justified {
-		text-align: justify;
-	}
+		
 /* Form */
 
 	form {
